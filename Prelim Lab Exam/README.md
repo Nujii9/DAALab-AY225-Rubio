@@ -22,3 +22,5 @@ Select column (ID, First Name, Last Name).Select sort order.Select algorithm.
   
 Best Case: $O(n \log n)$
 Worst Case: $O(n \log n)$
+
+How to run: python "Prelim Lab Exam"/sortingalgo.py"
